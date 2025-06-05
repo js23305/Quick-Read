@@ -58,11 +58,6 @@ QuickRead is more than just a summarizer—it's a complete, user-friendly readin
 
 ---
 
-## Contribute / Collaborate
-
-Pull requests welcome! Open an issue or reach out to collaborate.
-
----
 
 ## License
 
